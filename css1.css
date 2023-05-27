@@ -21,7 +21,7 @@ li{
 }
 button{
     display: block;
-    margin-left: 30px;
+    margin-left: 60px !important;
     width: 40px;
     height: 40px;
     border-radius: 60%;
