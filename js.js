@@ -17,5 +17,4 @@ document.getElementById("loginForm").addEventListener("submit", function (event)
 
 function clearwrong() {
     document.getElementById("wrong").style.display="none"
-
 } 
