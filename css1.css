@@ -20,6 +20,8 @@ li{
     border-bottom: 2px solid white;
 }
 button{
+    display: block;
+    margin-left: 30px;
     width: 40px;
     height: 40px;
     border-radius: 60%;
