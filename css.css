@@ -23,7 +23,6 @@ legend{
     margin: auto auto;
     box-shadow: 1px 1px 3px #333333;
     cursor: pointer;
-    margin: 20px auto !important;
     transition: 0.5s;
 }
 .input:hover{
