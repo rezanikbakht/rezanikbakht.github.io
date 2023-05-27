@@ -20,7 +20,7 @@ legend{
     padding: 10px;
     margin-top: 10px;
     text-align: center;
-    margin: auto auto;
+    margin: 3px auto;
     box-shadow: 1px 1px 3px #333333;
     cursor: pointer;
     transition: 0.5s;
