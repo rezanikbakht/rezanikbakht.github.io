@@ -4,6 +4,7 @@
     text-transform: capitalize;
 }
 body{
+    display: block;
     background-color: bisque;
-    text-align: center;
+    margin: 0px auto;
 }
