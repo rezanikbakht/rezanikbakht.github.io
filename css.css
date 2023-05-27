@@ -10,8 +10,10 @@ body{
 
 }
 legend{
+    display: block;
+    margin: 2px auto;
     font-size: 30px !important;
-    text-align: center;
+    
 }
 .input{
     display: block;
@@ -21,7 +23,7 @@ legend{
     margin: auto auto;
     box-shadow: 1px 1px 3px #333333;
     cursor: pointer;
-    margin: 2px auto;
+    margin: 2px auto !important;
     transition: 0.5s;
 }
 .input:hover{
